@@ -1,3 +1,9 @@
+# AI Institute
+
+To train ProphetNet, I used the same preprocessing as indicated in the in the ProphetNet repo, however tokenized the data using TreeTokenizer.
+
+
+
 # ProphetNet-X
 
 1. This repo provides the code for reproducing the experiments in [*ProphetNet*](https://arxiv.org/pdf/2001.04063). In the paper, we propose a new pre-trained language model called ProphetNet for sequence-to-sequence learning with a novel self-supervised objective called future n-gram prediction. 
