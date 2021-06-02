@@ -1,6 +1,6 @@
 # AI Institute
 
-To train ProphetNet, I used the same preprocessing as indicated in the in the ProphetNet repo, however tokenized the data using TreeTokenizer.
+To train ProphetNet, I used the same preprocessing as indicated in the in the ProphetNet repo, however tokenized the data using TreeBankDetokenizer. Tokenizer.py
 
 
 
